@@ -1,0 +1,42 @@
+Vieas 5.4.6.0          Freeware for Windows XP/Vista/7/8          2015-06-27
+============================================================================
+Web Site: http://www.vieas.com/en/            Copyright(C) 2002-2015 INAGAKI
+
+译注：
+- 翻译by pcysanji 静海流沙
+- 基于Danfong（丹楓）的繁体和原版英文翻译
+- 修正了一些繁体翻译错误
+- 增加了一些未知的翻译错误（滑稽）
+- 将配置文件Vieas.ini放在主程序目录下，实现了便携化
+- 删除多余的语言文件，仅保留简体，繁体，英语，想要用日语，德语，瑞典语的，可以自己去官网下载原版
+- 修改了某些快捷键：双击鼠标改为打开文件（原本为退出）；滚轮向上滚动放大，向下滚动缩小（原本竟然是反着的！）；按F1可以跳出主要鼠标操作，以免忘记某些操作，比如鼠标滚动图像时右键拖拽，而非左键，左键是移动图像。
+- 由于个人喜欢简洁至上，喜欢无边框的，所以这些外观，快捷键方面，使用者更具个人喜好和习惯设定。
+==============================
+
+## 官方介绍翻译
+概览
+--------
+Vieas 是一款结合了图像查看器和转换器的一款轻量级看图软件
+主要功能如下:
+- 使用查看窗口和编辑窗口来工作是高效的；
+- 图像实时预览有助于编辑和保存；
+- 支持的文件格式是BMP、PNG、JPEG、TIFF（未压缩）和GIF；
+  (Susie 插件可用于加载其他文件。)
+- 实现了JPEG无损转换；
+- 其他功能是全屏，幻灯片，打印，裁剪，调整大小，旋转，修正等。
+
+
+使用条款
+------------
+大概是说，你尽管用，自行承担风险，软件开发者不做保证（You can use this software at your own risk. This software is provided
+"as-is", without any express or implied warranty. In no event will the
+author be held liable for any damages arising from the use of this software.
+）
+
+
+注释
+-------
+这个软件中使用了以下的库。感谢开发人员。
+- zlib 1.2.8
+- libjpeg-turbo 1.3.1
+
